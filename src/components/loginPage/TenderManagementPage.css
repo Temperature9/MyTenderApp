@@ -1,0 +1,24 @@
+/* src/pages/TenderManagementPage.css */
+
+.tender-management-page {
+    padding: 20px;
+  }
+  
+  .tender-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .tender-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tender-item a {
+    text-decoration: none;
+    color: #333;
+  }
+  

@@ -1,0 +1,20 @@
+/* src/pages/ContractorBidDetailsPage.css */
+
+.contractor-bid-details-page {
+    padding: 20px;
+  }
+  
+  .bid-details, .worker-management, .transportation-management {
+    margin-bottom: 30px;
+  }
+  
+  .worker-management input {
+    margin-right: 10px;
+  }
+  
+  .worker-management button, .transportation-management button {
+    padding: 8px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,35 @@
+/* src/pages/ContractorProfilePage.css */
+
+.contractor-profile-page {
+    padding: 20px;
+  }
+  
+  .profile-details {
+    max-width: 400px;
+    margin: 20px 0;
+  }
+  
+  .field {
+    margin-bottom: 15px;
+  }
+  
+  .field label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .field input, .field p {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .profile-actions {
+    margin-top: 20px;
+  }
+  
+  .profile-actions button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  

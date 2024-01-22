@@ -1,0 +1,37 @@
+/* TeamPage.css */
+.team-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .team-member {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .team-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .member-details {
+    margin-top: 10px;
+  }
+  
+  .member-details h3 {
+    margin: 0;
+  }
+  
+  .member-details p {
+    color: #555;
+  }
+  

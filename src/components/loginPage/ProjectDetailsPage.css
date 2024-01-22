@@ -1,0 +1,23 @@
+/* src/pages/ProjectDetailsPage.css */
+
+.project-details-page {
+    padding: 20px;
+  }
+  
+  .project-details, .assigned-workers, .transportation-details {
+    margin-bottom: 30px;
+  }
+  
+  .assigned-workers ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .assigned-workers li {
+    margin-bottom: 10px;
+  }
+  
+  .transportation-details p {
+    margin: 0;
+  }
+  
